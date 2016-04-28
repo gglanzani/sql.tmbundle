@@ -4,9 +4,9 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>sql</string>
 		<string>ddl</string>
 		<string>dml</string>
+		<string>hql</string>
 	</array>
 	<key>keyEquivalent</key>
 	<string>^~S</string>
